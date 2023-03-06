@@ -1,0 +1,156 @@
+
+
+
+
+h1{
+    position: absolute;
+    left: 36%;
+    top: 3%;
+}
+
+.law{
+    position: relative;
+    top: 10rem;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1rem;
+}
+
+.custom-add-reset-btn{
+
+    position: relative;
+    top:10rem;
+    margin-left: 42%;
+    margin-right: 42%;
+}
+
+
+.work_btn{
+    background-color: rgb(78, 55, 55);
+}
+
+
+
+.to-dos{
+    position: relative;
+    top: 13rem;
+    margin-left: 18%;
+    margin-right: 18%;
+    list-style-type: none;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    /* display: flex; */
+}
+
+.task-list-item{
+  
+    background-color: rgb(11, 93, 226);
+    color: rgb(243, 234, 234);
+    margin-top: 1rem;
+ 
+    font-family: 'Doppio One', sans-serif;
+    width: 96%;
+    border-radius: 12px;
+   
+    box-shadow: 10px 10px 5px rgb(72, 101, 169);
+}
+
+.task-list-item:hover{
+    background-color: rgb(0, 0, 0);
+    box-shadow: 10px 10px 5px rgb(41, 41, 43);
+    transition: 1s;
+}
+
+.delete-icon{
+    color: red;
+   position: relative;
+   /* right: 0;
+    */
+    left: 1rem;
+   bottom: 4rems;
+    
+}
+
+
+
+.edit-icon{
+    color: rgb(12, 38, 72);
+    margin-left: 10px;
+}
+
+#myID{
+
+
+    margin-top: 1rem;
+    width: 25%;
+
+    /* for icon */
+    font-family: "Font Awesome 5 Free";  
+   font-weight: 700;
+}
+
+
+.custom-dropdown{
+    margin-top: 1rem;
+    width: 25%;
+}
+
+#id_list{
+  
+font-size: 2rem;
+position: relative;
+   /* right: 0;
+    */
+    top: 0.5rem;
+    left: 1rem;
+   bottom: 4rems;
+
+     }
+
+#id_date{
+    position: relative;
+   /* right: 0;
+    */
+    left: 1rem;
+   bottom: 4rems;
+    margin-left: 1%;
+} 
+
+
+.done-task{
+    position: relative;
+    
+    left:40rem;
+    bottom: 6.2rem;
+    
+
+}
+
+#id_category{
+
+
+    position: relative;
+   /* right: 0;
+    */
+    left: 1rem;
+   /* bottom: 4rem; */
+}
+
+.calen{
+
+
+    position: relative;
+   /* right: 0;
+    */
+    left: 1rem;
+   /* bottom: 4rems; */
+}
+
+.hola{
+    position: relative;
+   /* right: 0;
+    */
+    left: 10rem;
+    top: 1rem;
+   /* bottom: 4rems; */
+}
